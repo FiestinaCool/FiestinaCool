@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FiestinaCool
+- 👋 Hi, I’m Fiestina
 - 🌱 I’m currently learning Solidity
 
 <!---
